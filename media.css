@@ -1,0 +1,15 @@
+@media(max-width: 575px){
+	.menu{
+		position: inherit;
+		display: block;
+		padding: 20px 0;
+		width: 100%;
+	}
+	.header{
+		margin-top: 0;
+		padding: 100px 10px;
+		background-size: cover;
+		background-position: center center;
+		min-height: 300px;
+	}
+}
